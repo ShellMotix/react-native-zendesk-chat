@@ -31,6 +31,9 @@ RCT_EXPORT_METHOD(setVisitorInfo:(NSDictionary *)options) {
 RCT_EXPORT_METHOD(startChat:(NSDictionary *)options) {
   [self setVisitorInfo:options];
 
+  // apply appearance styling first if you want to customise the look of the chat
+  [ChatStyling applyStyling];
+
   dispatch_sync(dispatch_get_main_queue(), ^{
     [ZDCChat startChat:^(ZDCConfig *config) {
       if (options[@"department"]) {
