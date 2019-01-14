@@ -45,8 +45,6 @@
 		B6462EB61C603E340010294B = {
 			isa = PBXGroup;
 			children = (
-				F4F243A821E370E4004D0DF0 /* ChatStyling.h */,
-				F4F243A921E370E4004D0DF0 /* ChatStyling.m */,
 				B6462ECB1C603E5C0010294B /* RNZendeskChatModule.h */,
 				B6462ECC1C603E5C0010294B /* RNZendeskChatModule.m */,
 				B6462EC01C603E340010294B /* Products */,
