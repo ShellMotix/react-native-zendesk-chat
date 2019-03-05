@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> chat styling added
 
 /*	
  *	
@@ -277,6 +280,7 @@
 }	
 
  @end
+<<<<<<< HEAD
 =======
 /*
  *
@@ -556,3 +560,5 @@
 
 @end
 >>>>>>> IOS Chat Styling added
+=======
+>>>>>>> chat styling added
