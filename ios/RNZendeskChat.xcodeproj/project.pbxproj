@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9B1E13B424BD727F009C2E6F /* ChatStyling.h in Sources */ = {isa = PBXBuildFile; fileRef = F49A556C222FEDC100F2A089 /* ChatStyling.h */; };
 		B6462ECD1C603E5C0010294B /* RNZendeskChatModule.m in Sources */ = {isa = PBXBuildFile; fileRef = B6462ECC1C603E5C0010294B /* RNZendeskChatModule.m */; };
 		F49A556D222FEDC100F2A089 /* ChatStyling.m in Sources */ = {isa = PBXBuildFile; fileRef = F49A556B222FEDC100F2A089 /* ChatStyling.m */; };
 /* End PBXBuildFile section */
@@ -100,6 +101,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = B6462EB61C603E340010294B;
@@ -117,6 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9B1E13B424BD727F009C2E6F /* ChatStyling.h in Sources */,
 				F49A556D222FEDC100F2A089 /* ChatStyling.m in Sources */,
 				B6462ECD1C603E5C0010294B /* RNZendeskChatModule.m in Sources */,
 			);
