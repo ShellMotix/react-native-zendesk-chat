@@ -15,7 +15,7 @@
  */
 
 #import <Foundation/Foundation.h>
-#import <ZDCChat/ZDCChat.h>
+#import <CommonUISDK/CommonUISDK.h>
 
 @interface ChatStyling : NSObject
 
